@@ -26,7 +26,7 @@ Follow the steps below to set up and run the project on your local machine.
 2. Navigate to the project's directory:
 
    ```bash
-   cd your-repo
+   cd lyriks-music-app
    ```
 
 3. Install the dependencies using npm:
@@ -65,6 +65,8 @@ This will generate an optimized version of the project in the `build` directory.
 
 Congratulations! You've successfully set up a React 18 project with Tailwind CSS and integrated the Shazam Core API using RapidAPI. Feel free to explore the code and customize it according to your needs.
 
+
 If you have any questions or need further assistance, please don't hesitate to reach out.
 
 Happy coding!
+Semah
